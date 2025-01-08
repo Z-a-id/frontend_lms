@@ -134,7 +134,15 @@ cd library-management-system
 5. Open a Pull Request.
 
 ---
+## *Screenshots of website*
+![image](https://github.com/user-attachments/assets/ad327a38-2a7e-434b-9bc7-d2698b1c9e13)
+![image](https://github.com/user-attachments/assets/fcc65447-a663-4787-89bc-d0664072b2cf)
+![image](https://github.com/user-attachments/assets/7a7ff8ab-64b8-4a9d-9978-b3ed0e65e67a)
+![image](https://github.com/user-attachments/assets/fff17832-ae8b-4c5b-a6db-6d95aff3b96b)
+![image](https://github.com/user-attachments/assets/b782448c-7ec3-4918-b7db-5cbd4aecdfeb)
 
-
+---
+## *Link to  websute*
+https://frontend-lms-zaid.vercel.app
 
 
